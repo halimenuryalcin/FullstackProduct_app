@@ -29,7 +29,7 @@ Backend .NET, frontend ise React ile geliştirildi.
 cd MockApi
 dotnet restore
 dotnet run
-![Ekran Görüntüsü (99)](https://github.com/user-attachments/assets/ab94d2f3-b980-402a-a883-d45337958cf5)
+
 
 
 
